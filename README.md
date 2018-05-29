@@ -1,5 +1,7 @@
 # SnowChart
 
+![Prévisualisation](https://image.ibb.co/mpRz7d/Screenshot_2018_5_29.png)
+
 ```php
 <?php
   $header = ['Novembre','Décembre','Janvier','Février','Mars','Avril];
